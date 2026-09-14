@@ -1,0 +1,21 @@
+# NoSQL Schema Inspector - Dépendances 
+# Installez tout avec : pip install -r requirements.txt
+
+# Interface web
+streamlit==1.57.0
+
+# Bases de données
+pymongo==4.17.0              # MongoDB & MongoDB Atlas
+CouchDB==1.2                 # CouchDB
+google-cloud-firestore==2.27.0  # Firebase Firestore
+
+# Visualisation & données
+plotly==6.7.0
+pandas==3.0.2
+
+# Export PDF (rapport de sécurité)
+reportlab==4.5.0
+
+# IA et Environnement (Chatbot)
+groq>=0.9.0
+python-dotenv>=1.0.1

@@ -1,0 +1,55 @@
+
+services:
+
+  # ── MONGODB ──────────────────────────────────────────
+  mongodb:
+    image: mongo:7.0
+    container_name: nosql_mongodb
+    ports:
+      - "27017:27017"
+    environment:
+     MONGO_INITDB_ROOT_USERNAME: admin
+     MONGO_INITDB_ROOT_PASSWORD: admin123
+     MONGO_INITDB_DATABASE: nosql_test
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - nosql_network
+
+  # ── COUCHDB ──────────────────────────────────────────
+  couchdb:
+    image: couchdb:3.3
+    container_name: nosql_couchdb
+    ports:
+      - "5984:5984"
+    environment:
+      COUCHDB_USER: admin
+      COUCHDB_PASSWORD: admin123
+    volumes:
+      - couchdb_data:/opt/couchdb/data
+    networks:
+      - nosql_network
+
+  # ── MONGO EXPRESS (UI pour MongoDB) ──────────────────
+  mongo-express:
+    image: mongo-express:latest
+    container_name: nosql_mongo_express
+    ports:
+      - "8082:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+      ME_CONFIG_MONGODB_ADMINPASSWORD: admin123
+      ME_CONFIG_MONGODB_URL: mongodb://admin:admin123@mongodb:27017/admin      
+      ME_CONFIG_BASICAUTH: false
+    depends_on:
+      - mongodb
+    networks:
+      - nosql_network 
+
+volumes:
+  mongodb_data:
+  couchdb_data:
+
+networks:
+  nosql_network:
+    driver: bridge
