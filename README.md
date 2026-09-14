@@ -284,7 +284,7 @@ If you use this framework in academic research, please cite:
   year    = {2026}
 }
 ```
-**Archive:** [https://doi.org/10.5281/zenodo.20683271](https://doi.org/10.5281/zenodo.20683271)
+**Archive:** [https://zenodo.org/records/22341686](https://zenodo.org/records/22341686)
 
 ---
 
