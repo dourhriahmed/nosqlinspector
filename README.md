@@ -278,7 +278,7 @@ If you use this framework in academic research, please cite:
 
 ```bibtex
 @article{NoSQLInspector2026,
-  title   = {NoSQL Schema Inspector: An Automated Tool for Discovering, Visualizing, and Auditing Document Database Structures},
+  title   = {NoSQL Schema Inspector: An Open-Source Inspection Software for Document-Oriented NoSQL Databases},
   author  = {Hanine Mohamed, Dourhri Ahmed, My Youssef Ichahane, Chokri Zahra, Sebban Hiba and Razzouk Majda},
   journal = {SoftwareX},
   year    = {2026}
