@@ -260,6 +260,10 @@ NoSQL_Schema_inspector/
 
 <img width="727" height="343" alt="image" src="images\Data_Quality.png" />
 
+### chatbot
+
+<img width="727" height="343" alt="image" src="images\AI-AssistedPanel.png" />
+
 ---
 
 ## License
@@ -273,9 +277,9 @@ See the [LICENSE](LICENSE) file for details.
 If you use this framework in academic research, please cite:
 
 ```bibtex
-@article{hanine2026nosql,
+@article{NoSQLInspector2026,
   title   = {NoSQL Schema Inspector: An Automated Tool for Discovering, Visualizing, and Auditing Document Database Structures},
-  author  = {Hanine Mohamed, Chokri Zahra, Sebban Hiba and Razzouk Majda},
+  author  = {Hanine Mohamed, Dourhri Ahmed, Chokri Zahra, Sebban Hiba and Razzouk Majda},
   journal = {SoftwareX},
   year    = {2026}
 }
@@ -285,10 +289,11 @@ If you use this framework in academic research, please cite:
 ---
 
 ## Authors
-
+* Ahmed Dourhri - [@DourhriAhmed](https://github.com/dourhriahmed)
+* Hiba Sebban - [@HibaSEBBAN](https://github.com/hibasb)
 * Majda Razzouk - [@MajdaRAZZOUK](https://github.com/majdamija123)
 * Zahra Chokri - [@ZahraCHOKRI](https://github.com/Zahra0706)
-* Hiba Sebban - [@HibaSEBBAN](https://github.com/hibasb)
+
 
 National School of Applied Sciences (ENSA)
 Chouaib Doukkali University
@@ -299,10 +304,10 @@ El Jadida, Morocco
 ## Contact
 
 For questions, feedback, or collaboration inquiries:
-
+* [dourhriahmed@gmail.com](mailto:dourhriahmed@gmail.com)
+* [Hibasebban@gmail.com](mailto:Hibasebban@gmail.com)
 * [mrazzouk233@gmail.com](mailto:mrazzouk233@gmail.com)
 * [zahraechokrii@gmail.com](mailto:zahraechokrii@gmail.com)
-* [Hibasebban@gmail.com](mailto:Hibasebban@gmail.com)
 
 
 
