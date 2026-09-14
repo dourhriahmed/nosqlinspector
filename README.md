@@ -290,6 +290,7 @@ If you use this framework in academic research, please cite:
 
 ## Authors
 * Mohamed Hanine - [@HanineMohamed](https://github.com/haninemohamed)
+* My Youssef Ichahane - [@IchahaneMyYoussef](https://github.com/ichahanemyyoussef)
 * Ahmed Dourhri - [@DourhriAhmed](https://github.com/dourhriahmed)
 * Hiba Sebban - [@HibaSEBBAN](https://github.com/hibasb)
 * Majda Razzouk - [@MajdaRAZZOUK](https://github.com/majdamija123)
@@ -304,9 +305,10 @@ El Jadida, Morocco
 
 ## Contact
 
-For questions, feedback, or collaboration inquiries:
+For questions, feedback, or collaboration inquiries: 
 * [m.hanine.ensaj@gmail.com](mailto:m.hanine.ensaj@gmail.com)
 * [dourhriahmed@gmail.com](mailto:dourhriahmed@gmail.com)
+* [y.ichahane@gmail.com@gmail.com](mailto:y.ichahane@gmail.com@gmail.com) 
 * [Hibasebban@gmail.com](mailto:Hibasebban@gmail.com)
 * [mrazzouk233@gmail.com](mailto:mrazzouk233@gmail.com)
 * [zahraechokrii@gmail.com](mailto:zahraechokrii@gmail.com)
