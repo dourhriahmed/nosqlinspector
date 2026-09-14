@@ -243,26 +243,26 @@ NoSQL_Schema_inspector/
 
 ### Schema Visualization
 
-<img width="724" alt="image" src="images\Schema_Visualization.png" />
+<img width="800" alt="image" src="images\Schema_Visualization.png" />
 
 
 ### Security Audit Dashboard
 
-<img width="727" alt="image" src="images\Security_Audit.png" />
+<img width="800" alt="image" src="images\Security_Audit.png" />
 
 
 ### Schema Drift
 
-<img width="727" alt="image" src="images\Schema_Drift.png" />
+<img width="800" alt="image" src="images\Schema_Drift.png" />
 
 
 ### Data Quality
 
-<img width="727" alt="image" src="images\Data_Quality.png" />
+<img width="800" alt="image" src="images\Data_Quality.png" />
 
 ### chatbot
 
-<img width="727" alt="image" src="images\AI-AssistedPanel.png" />
+<img width="800" alt="image" src="images\AI-AssistedPanel.png" />
 
 ---
 
