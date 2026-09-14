@@ -1,0 +1,653 @@
+[
+  {
+    "customer_id": "C-0001",
+    "first_name": "Youssef",
+    "last_name": "Cherkaoui",
+    "email": "user1@example.com",
+    "phone": "+212627758595",
+    "address": {
+      "city": "Fez",
+      "country": "Germany"
+    },
+    "loyalty_points": 1990,
+    "registration_date": "2023-08-27T00:00:00",
+    "password": "P@ssw0rd123"
+  },
+  {
+    "customer_id": "C-0002",
+    "first_name": "Nadia",
+    "last_name": "Bennani",
+    "email": null,
+    "phone": "+212622660194",
+    "address": {
+      "city": "Casablanca",
+      "country": "Germany"
+    },
+    "loyalty_points": 2902,
+    "registration_date": "2023-05-18T00:00:00"
+  },
+  {
+    "customer_id": "C-0003",
+    "first_name": "Nadia",
+    "last_name": "Fassi",
+    "email": "john[at]mail",
+    "phone": "+212617270733",
+    "address": {
+      "city": "Fez",
+      "country": "Morocco"
+    },
+    "loyalty_points": 496,
+    "registration_date": "2023-04-05T00:00:00"
+  },
+  {
+    "customer_id": "C-0004",
+    "first_name": "Laila",
+    "last_name": "Idrissi",
+    "email": "bad-email",
+    "phone": "+212624665841",
+    "address": {
+      "city": "Rabat",
+      "country": "France"
+    },
+    "loyalty_points": 1558,
+    "registration_date": "2024-01-04T00:00:00"
+  },
+  {
+    "customer_id": "C-0005",
+    "first_name": "Nadia",
+    "last_name": "Bennani",
+    "email": "user5@example.com",
+    "phone": "PHONE-N/A",
+    "address": {
+      "city": "Rabat",
+      "country": "Spain"
+    },
+    "loyalty_points": 3789,
+    "registration_date": "2022-05-27T00:00:00"
+  },
+  {
+    "customer_id": "C-0006",
+    "first_name": "Sara",
+    "last_name": "Fassi",
+    "email": "user6@example.com",
+    "phone": "+212683863413",
+    "address": {
+      "city": "Casablanca",
+      "country": "Morocco"
+    },
+    "loyalty_points": -100,
+    "registration_date": "2021-01-31T00:00:00"
+  },
+  {
+    "customer_id": "C-0007",
+    "first_name": "Sara",
+    "last_name": "Bennani",
+    "email": "user7@example.com",
+    "phone": "+212632321899",
+    "address": {
+      "city": "Marrakech",
+      "country": "Germany"
+    },
+    "loyalty_points": 3943,
+    "registration_date": "2022-03-14T00:00:00"
+  },
+  {
+    "customer_id": "C-0008",
+    "first_name": "Nadia",
+    "last_name": "Alaoui",
+    "email": "user8@example.com",
+    "phone": "+212632097220",
+    "address": {
+      "city": "Marrakech",
+      "country": "Morocco"
+    },
+    "loyalty_points": 3198,
+    "registration_date": "2022-06-28T00:00:00"
+  },
+  {
+    "customer_id": "C-0009",
+    "first_name": "Nadia",
+    "last_name": "Idrissi",
+    "email": "user9@example.com",
+    "phone": "+212666775103",
+    "address": {
+      "city": "Fez",
+      "country": "Germany"
+    },
+    "loyalty_points": 1268,
+    "registration_date": "2022-01-24T00:00:00"
+  },
+  {
+    "customer_id": "C-0010",
+    "first_name": "Amine",
+    "last_name": "Bennani",
+    "email": "user10@example.com",
+    "phone": "+212617849494",
+    "address": {
+      "city": "Tangier",
+      "country": "Morocco"
+    },
+    "loyalty_points": 2569,
+    "registration_date": "2021-04-28T00:00:00"
+  },
+  {
+    "customer_id": "C-0011",
+    "first_name": "Sara",
+    "last_name": "Cherkaoui",
+    "email": "user11@example.com",
+    "phone": "+212673993471",
+    "address": {
+      "city": "Tangier",
+      "country": "France"
+    },
+    "loyalty_points": 465,
+    "registration_date": "2023-11-07T00:00:00"
+  },
+  {
+    "customer_id": "C-0012",
+    "first_name": "Sara",
+    "last_name": "Bennani",
+    "email": "user12@example.com",
+    "phone": "+212619196777",
+    "address": {
+      "city": "Tangier",
+      "country": "Morocco"
+    },
+    "loyalty_points": 1926,
+    "registration_date": "2023-04-07T00:00:00"
+  },
+  {
+    "customer_id": "C-0013",
+    "first_name": "Sara",
+    "last_name": "Cherkaoui",
+    "email": "user13@example.com",
+    "phone": "+212643046464",
+    "address": {
+      "city": "Tangier",
+      "country": "Morocco"
+    },
+    "loyalty_points": 671,
+    "registration_date": "2023-05-09T00:00:00"
+  },
+  {
+    "customer_id": "C-0014",
+    "first_name": "Laila",
+    "last_name": "Cherkaoui",
+    "email": "user14@example.com",
+    "phone": "+212685863473",
+    "address": {
+      "city": "Tangier",
+      "country": "Spain"
+    },
+    "loyalty_points": 2136,
+    "registration_date": "2022-02-23T00:00:00"
+  },
+  {
+    "customer_id": "C-0015",
+    "first_name": "Laila",
+    "last_name": "Idrissi",
+    "email": "user15@example.com",
+    "phone": "+212642035886",
+    "address": {
+      "city": "El Jadida",
+      "country": "Germany"
+    },
+    "loyalty_points": 1072,
+    "registration_date": "2024-10-07T00:00:00"
+  },
+  {
+    "customer_id": "C-0016",
+    "first_name": "Laila",
+    "last_name": "Idrissi",
+    "email": "user16@example.com",
+    "phone": "+212671367643",
+    "address": {
+      "city": "El Jadida",
+      "country": "Morocco"
+    },
+    "loyalty_points": 76,
+    "registration_date": "2023-07-28T00:00:00"
+  },
+  {
+    "customer_id": "C-0017",
+    "first_name": "Omar",
+    "last_name": "Cherkaoui",
+    "email": "user17@example.com",
+    "phone": "+212623419256",
+    "address": {
+      "city": "Casablanca",
+      "country": "France"
+    },
+    "loyalty_points": 4144,
+    "registration_date": "2022-06-28T00:00:00"
+  },
+  {
+    "customer_id": "C-0018",
+    "first_name": "Youssef",
+    "last_name": "Idrissi",
+    "email": "user18@example.com",
+    "phone": "+212619233013",
+    "address": {
+      "city": "Rabat",
+      "country": "Spain"
+    },
+    "loyalty_points": 2334,
+    "registration_date": "2021-11-20T00:00:00"
+  },
+  {
+    "customer_id": "C-0019",
+    "first_name": "Nadia",
+    "last_name": "Cherkaoui",
+    "email": "user19@example.com",
+    "phone": "+212650603163",
+    "address": {
+      "city": "Tangier",
+      "country": "Morocco"
+    },
+    "loyalty_points": 4543,
+    "registration_date": "2022-09-06T00:00:00"
+  },
+  {
+    "customer_id": "C-0020",
+    "first_name": "Laila",
+    "last_name": "Alaoui",
+    "email": "user20@example.com",
+    "phone": "+212628024248",
+    "address": {
+      "city": "El Jadida",
+      "country": "Morocco"
+    },
+    "loyalty_points": 876,
+    "registration_date": "2024-02-08T00:00:00"
+  },
+  {
+    "customer_id": "C-0021",
+    "first_name": "Youssef",
+    "last_name": "Idrissi",
+    "email": "user21@example.com",
+    "phone": "+212647816686",
+    "address": {
+      "city": "Tangier",
+      "country": "France"
+    },
+    "loyalty_points": 2808,
+    "registration_date": "2022-02-21T00:00:00"
+  },
+  {
+    "customer_id": "C-0022",
+    "first_name": "Laila",
+    "last_name": "Idrissi",
+    "email": "user22@example.com",
+    "phone": "+212677834855",
+    "address": {
+      "city": "Marrakech",
+      "country": "Spain"
+    },
+    "loyalty_points": 416,
+    "registration_date": "2021-07-09T00:00:00"
+  },
+  {
+    "customer_id": "C-0023",
+    "first_name": "Laila",
+    "last_name": "Fassi",
+    "email": "user23@example.com",
+    "phone": "+212647135391",
+    "address": {
+      "city": "Casablanca",
+      "country": "Morocco"
+    },
+    "loyalty_points": 2732,
+    "registration_date": "2021-09-25T00:00:00"
+  },
+  {
+    "customer_id": "C-0024",
+    "first_name": "Laila",
+    "last_name": "Idrissi",
+    "email": "user24@example.com",
+    "phone": "+212631687165",
+    "address": {
+      "city": "Fez",
+      "country": "Germany"
+    },
+    "loyalty_points": 4519,
+    "registration_date": "2024-12-16T00:00:00"
+  },
+  {
+    "customer_id": "C-0025",
+    "first_name": "Nadia",
+    "last_name": "Cherkaoui",
+    "email": "user25@example.com",
+    "phone": "+212611297845",
+    "address": {
+      "city": "Casablanca",
+      "country": "Morocco"
+    },
+    "loyalty_points": 1221,
+    "registration_date": "2024-01-23T00:00:00"
+  },
+  {
+    "customer_id": "C-0026",
+    "first_name": "Sara",
+    "last_name": "Idrissi",
+    "email": "user26@example.com",
+    "phone": "+212688183110",
+    "address": {
+      "city": "Tangier",
+      "country": "France"
+    },
+    "loyalty_points": 3520,
+    "registration_date": "2021-09-19T00:00:00"
+  },
+  {
+    "customer_id": "C-0027",
+    "first_name": "Sara",
+    "last_name": "Idrissi",
+    "email": "user27@example.com",
+    "phone": "+212658942697",
+    "address": {
+      "city": "Casablanca",
+      "country": "Spain"
+    },
+    "loyalty_points": 1720,
+    "registration_date": "2024-10-28T00:00:00"
+  },
+  {
+    "customer_id": "C-0028",
+    "first_name": "Youssef",
+    "last_name": "Alaoui",
+    "email": "user28@example.com",
+    "phone": "+212657469942",
+    "address": {
+      "city": "Tangier",
+      "country": "Germany"
+    },
+    "loyalty_points": 1266,
+    "registration_date": "2022-04-30T00:00:00"
+  },
+  {
+    "customer_id": "C-0029",
+    "first_name": "Youssef",
+    "last_name": "Bennani",
+    "email": "user29@example.com",
+    "phone": "+212665337219",
+    "address": {
+      "city": "Casablanca",
+      "country": "France"
+    },
+    "loyalty_points": 2721,
+    "registration_date": "2023-04-24T00:00:00"
+  },
+  {
+    "customer_id": "C-0030",
+    "first_name": "Laila",
+    "last_name": "Bennani",
+    "email": "user30@example.com",
+    "phone": "+212645810056",
+    "address": {
+      "city": "Rabat",
+      "country": "Morocco"
+    },
+    "loyalty_points": 3133,
+    "registration_date": "2021-03-21T00:00:00"
+  },
+  {
+    "customer_id": "C-0031",
+    "first_name": "Nadia",
+    "last_name": "Bennani",
+    "email": "user31@example.com",
+    "phone": "+212636786211",
+    "address": {
+      "city": "Marrakech",
+      "country": "Spain"
+    },
+    "loyalty_points": 2500,
+    "registration_date": "2022-04-12T00:00:00"
+  },
+  {
+    "customer_id": "C-0032",
+    "first_name": "Youssef",
+    "last_name": "Alaoui",
+    "email": "user32@example.com",
+    "phone": "+212698588154",
+    "address": {
+      "city": "Rabat",
+      "country": "Germany"
+    },
+    "loyalty_points": 2689,
+    "registration_date": "2022-07-25T00:00:00"
+  },
+  {
+    "customer_id": "C-0033",
+    "first_name": "Sara",
+    "last_name": "Idrissi",
+    "email": "user33@example.com",
+    "phone": "+212657130035",
+    "address": {
+      "city": "Fez",
+      "country": "Germany"
+    },
+    "loyalty_points": 4392,
+    "registration_date": "2022-11-10T00:00:00"
+  },
+  {
+    "customer_id": "C-0034",
+    "first_name": "Sara",
+    "last_name": "Alaoui",
+    "email": "user34@example.com",
+    "phone": "+212645059710",
+    "address": {
+      "city": "Rabat",
+      "country": "Spain"
+    },
+    "loyalty_points": 313,
+    "registration_date": "2021-08-11T00:00:00"
+  },
+  {
+    "customer_id": "C-0035",
+    "first_name": "Omar",
+    "last_name": "Fassi",
+    "email": "user35@example.com",
+    "phone": "+212656397338",
+    "address": {
+      "city": "Fez",
+      "country": "Spain"
+    },
+    "loyalty_points": 3574,
+    "registration_date": "2024-05-26T00:00:00"
+  },
+  {
+    "customer_id": "C-0036",
+    "first_name": "Omar",
+    "last_name": "Alaoui",
+    "email": "user36@example.com",
+    "phone": "+212661700055",
+    "address": {
+      "city": "Tangier",
+      "country": "France"
+    },
+    "loyalty_points": 2086,
+    "registration_date": "2021-04-01T00:00:00"
+  },
+  {
+    "customer_id": "C-0037",
+    "first_name": "Laila",
+    "last_name": "Fassi",
+    "email": "user37@example.com",
+    "phone": "+212610226999",
+    "address": {
+      "city": "Tangier",
+      "country": "France"
+    },
+    "loyalty_points": 2983,
+    "registration_date": "2023-06-03T00:00:00"
+  },
+  {
+    "customer_id": "C-0038",
+    "first_name": "Sara",
+    "last_name": "Idrissi",
+    "email": "user38@example.com",
+    "phone": "+212693638503",
+    "address": {
+      "city": "El Jadida",
+      "country": "Morocco"
+    },
+    "loyalty_points": 2460,
+    "registration_date": "2023-11-05T00:00:00"
+  },
+  {
+    "customer_id": "C-0039",
+    "first_name": "Amine",
+    "last_name": "Fassi",
+    "email": "user39@example.com",
+    "phone": "+212653779528",
+    "address": {
+      "city": "Marrakech",
+      "country": "Spain"
+    },
+    "loyalty_points": 4541,
+    "registration_date": "2021-09-18T00:00:00"
+  },
+  {
+    "customer_id": "C-0040",
+    "first_name": "Youssef",
+    "last_name": "Fassi",
+    "email": "user40@example.com",
+    "phone": "+212699245317",
+    "address": {
+      "city": "Marrakech",
+      "country": "France"
+    },
+    "loyalty_points": 4662,
+    "registration_date": "2022-09-09T00:00:00"
+  },
+  {
+    "customer_id": "C-0041",
+    "first_name": "Nadia",
+    "last_name": "Cherkaoui",
+    "email": "user41@example.com",
+    "phone": "+212610054484",
+    "address": {
+      "city": "El Jadida",
+      "country": "Spain"
+    },
+    "loyalty_points": 1721,
+    "registration_date": "2023-05-31T00:00:00"
+  },
+  {
+    "customer_id": "C-0042",
+    "first_name": "Omar",
+    "last_name": "Cherkaoui",
+    "email": "user42@example.com",
+    "phone": "+212697873101",
+    "address": {
+      "city": "El Jadida",
+      "country": "Germany"
+    },
+    "loyalty_points": 3619,
+    "registration_date": "2023-06-25T00:00:00"
+  },
+  {
+    "customer_id": "C-0043",
+    "first_name": "Laila",
+    "last_name": "Bennani",
+    "email": "user43@example.com",
+    "phone": "+212678608612",
+    "address": {
+      "city": "Marrakech",
+      "country": "France"
+    },
+    "loyalty_points": 694,
+    "registration_date": "2022-08-05T00:00:00"
+  },
+  {
+    "customer_id": "C-0044",
+    "first_name": "Omar",
+    "last_name": "Cherkaoui",
+    "email": "user44@example.com",
+    "phone": "+212654988206",
+    "address": {
+      "city": "Casablanca",
+      "country": "France"
+    },
+    "loyalty_points": 2542,
+    "registration_date": "2022-04-06T00:00:00"
+  },
+  {
+    "customer_id": "C-0045",
+    "first_name": "Youssef",
+    "last_name": "Bennani",
+    "email": "user45@example.com",
+    "phone": "+212613278320",
+    "address": {
+      "city": "Casablanca",
+      "country": "France"
+    },
+    "loyalty_points": 3892,
+    "registration_date": "2024-06-05T00:00:00"
+  },
+  {
+    "customer_id": "C-0046",
+    "first_name": "Sara",
+    "last_name": "Fassi",
+    "email": "user46@example.com",
+    "phone": "+212665625330",
+    "address": {
+      "city": "Fez",
+      "country": "France"
+    },
+    "loyalty_points": 3145,
+    "registration_date": "2023-10-10T00:00:00"
+  },
+  {
+    "customer_id": "C-0047",
+    "first_name": "Nadia",
+    "last_name": "Bennani",
+    "email": "user47@example.com",
+    "phone": "+212629806690",
+    "address": {
+      "city": "Fez",
+      "country": "Morocco"
+    },
+    "loyalty_points": 873,
+    "registration_date": "2023-05-21T00:00:00"
+  },
+  {
+    "customer_id": "C-0048",
+    "first_name": "Youssef",
+    "last_name": "Bennani",
+    "email": "user48@example.com",
+    "phone": "+212679519112",
+    "address": {
+      "city": "Marrakech",
+      "country": "Morocco"
+    },
+    "loyalty_points": 4566,
+    "registration_date": "2022-05-26T00:00:00"
+  },
+  {
+    "customer_id": "C-0049",
+    "first_name": "Sara",
+    "last_name": "Fassi",
+    "email": "user49@example.com",
+    "phone": "+212627896471",
+    "address": {
+      "city": "Marrakech",
+      "country": "Spain"
+    },
+    "loyalty_points": 3625,
+    "registration_date": "2024-06-08T00:00:00"
+  },
+  {
+    "customer_id": "C-0050",
+    "first_name": "Laila",
+    "last_name": "Cherkaoui",
+    "email": "user50@example.com",
+    "phone": "+212667276174",
+    "address": {
+      "city": "Tangier",
+      "country": "Germany"
+    },
+    "loyalty_points": 1303,
+    "registration_date": "2023-08-31T00:00:00"
+  }
+]

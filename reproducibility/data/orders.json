@@ -1,0 +1,2613 @@
+[
+  {
+    "order_id": "ORD-0001",
+    "customer_id": "C-0029",
+    "order_date": "2021-06-08T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 3,
+        "unit_price": 273
+      },
+      {
+        "product_id": "P-0009",
+        "quantity": 2,
+        "unit_price": 516
+      }
+    ],
+    "total": 1851,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0002",
+    "customer_id": "C-0015",
+    "order_date": "2023-02-24T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0018",
+        "quantity": 3,
+        "unit_price": 363
+      },
+      {
+        "product_id": "P-0005",
+        "quantity": 2,
+        "unit_price": 102
+      }
+    ],
+    "total": 1293,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0003",
+    "customer_id": "C-0027",
+    "order_date": "2021-05-08T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 4,
+        "unit_price": 85
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 5,
+        "unit_price": 358
+      }
+    ],
+    "total": 2130,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0004",
+    "customer_id": "C-0023",
+    "order_date": "2022-09-04T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 1,
+        "unit_price": 618
+      },
+      {
+        "product_id": "P-0001",
+        "quantity": 4,
+        "unit_price": 409
+      }
+    ],
+    "total": 2254,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0005",
+    "customer_id": "C-0025",
+    "order_date": "2022-11-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0009",
+        "quantity": 2,
+        "unit_price": 519
+      },
+      {
+        "product_id": "P-0001",
+        "quantity": 4,
+        "unit_price": 466
+      }
+    ],
+    "total": 2902,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0006",
+    "customer_id": "C-0038",
+    "order_date": "2024-03-01T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0020",
+        "quantity": 2,
+        "unit_price": 498
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 1,
+        "unit_price": 566
+      }
+    ],
+    "total": 1562,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0007",
+    "customer_id": "C-0021",
+    "order_date": "2022-03-10T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0006",
+        "quantity": 4,
+        "unit_price": 158
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 3,
+        "unit_price": 71
+      }
+    ],
+    "total": 845,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0008",
+    "customer_id": "C-0006",
+    "order_date": "2023-08-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0009",
+        "quantity": 4,
+        "unit_price": 799
+      },
+      {
+        "product_id": "P-0009",
+        "quantity": 4,
+        "unit_price": 790
+      }
+    ],
+    "total": 6356,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0009",
+    "customer_id": "C-0016",
+    "order_date": "2022-02-13T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 2,
+        "unit_price": 378
+      },
+      {
+        "product_id": "P-0001",
+        "quantity": 1,
+        "unit_price": 90
+      }
+    ],
+    "total": 846,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0010",
+    "customer_id": "C-0014",
+    "order_date": "2023-08-11T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0016",
+        "quantity": 2,
+        "unit_price": 264
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 1,
+        "unit_price": 705
+      }
+    ],
+    "total": 1233,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0011",
+    "customer_id": "C-0007",
+    "order_date": "2024-03-31T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0023",
+        "quantity": 5,
+        "unit_price": 640
+      },
+      {
+        "product_id": "P-0010",
+        "quantity": 2,
+        "unit_price": 137
+      }
+    ],
+    "total": 3474,
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0012",
+    "customer_id": "C-0045",
+    "order_date": "2022-09-10T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 2,
+        "unit_price": 426
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 2,
+        "unit_price": 626
+      }
+    ],
+    "total": "2104",
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0013",
+    "customer_id": "C-0033",
+    "order_date": "2024-08-19T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 5,
+        "unit_price": 375
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 3,
+        "unit_price": 697
+      }
+    ],
+    "total": 3966,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0014",
+    "customer_id": "C-0010",
+    "order_date": "2023-06-11T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 1,
+        "unit_price": 521
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 4,
+        "unit_price": 390
+      }
+    ],
+    "total": 2081,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0015",
+    "customer_id": "C-0018",
+    "order_date": "2022-10-23T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0016",
+        "quantity": 5,
+        "unit_price": 650
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 4,
+        "unit_price": 496
+      }
+    ],
+    "total": 5234,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0016",
+    "customer_id": "C-0025",
+    "order_date": "2022-11-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0015",
+        "quantity": 2,
+        "unit_price": 481
+      },
+      {
+        "product_id": "P-0022",
+        "quantity": 5,
+        "unit_price": 603
+      }
+    ],
+    "total": 3977,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0017",
+    "customer_id": "C-0018",
+    "order_date": "2024-05-05T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0007",
+        "quantity": 4,
+        "unit_price": 206
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 3,
+        "unit_price": 383
+      }
+    ],
+    "total": 1973,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0018",
+    "customer_id": "C-0036",
+    "order_date": "2022-05-08T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 2,
+        "unit_price": 549
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 4,
+        "unit_price": 267
+      }
+    ],
+    "total": 2166,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0019",
+    "customer_id": "C-0045",
+    "order_date": "2022-05-14T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 1,
+        "unit_price": 478
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 2,
+        "unit_price": 321
+      }
+    ],
+    "total": 1120,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0020",
+    "customer_id": "C-0022",
+    "order_date": "2022-12-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 5,
+        "unit_price": 504
+      },
+      {
+        "product_id": "P-0018",
+        "quantity": 4,
+        "unit_price": 372
+      }
+    ],
+    "total": 4008,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0021",
+    "customer_id": "C-0008",
+    "order_date": "2024-01-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0004",
+        "quantity": 2,
+        "unit_price": 277
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 2,
+        "unit_price": 758
+      }
+    ],
+    "total": 2170,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0022",
+    "customer_id": "C-0039",
+    "order_date": "2022-08-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0009",
+        "quantity": 4,
+        "unit_price": 776
+      },
+      {
+        "product_id": "P-0017",
+        "quantity": 5,
+        "unit_price": 761
+      }
+    ],
+    "total": 7009,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0023",
+    "customer_id": "C-0035",
+    "order_date": "2021-09-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0006",
+        "quantity": 3,
+        "unit_price": 252
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 1,
+        "unit_price": 329
+      }
+    ],
+    "total": 1185,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0024",
+    "customer_id": "C-0001",
+    "order_date": "2024-03-21T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0023",
+        "quantity": 3,
+        "unit_price": 586
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 4,
+        "unit_price": 149
+      }
+    ],
+    "total": 2354,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0025",
+    "customer_id": "C-0008",
+    "order_date": "2021-05-14T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0006",
+        "quantity": 3,
+        "unit_price": 471
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 3,
+        "unit_price": 72
+      }
+    ],
+    "total": 1629,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0026",
+    "customer_id": "C-0006",
+    "order_date": "2022-05-24T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0005",
+        "quantity": 1,
+        "unit_price": 610
+      },
+      {
+        "product_id": "P-0010",
+        "quantity": 5,
+        "unit_price": 172
+      }
+    ],
+    "total": 1470,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0027",
+    "customer_id": "C-0029",
+    "order_date": "2023-06-26T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0020",
+        "quantity": 5,
+        "unit_price": 640
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 5,
+        "unit_price": 251
+      }
+    ],
+    "total": 4455,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0028",
+    "customer_id": "C-0049",
+    "order_date": "2022-03-02T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0020",
+        "quantity": 5,
+        "unit_price": 332
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 5,
+        "unit_price": 81
+      }
+    ],
+    "total": 2065,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0029",
+    "customer_id": "C-0001",
+    "order_date": "2023-04-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0006",
+        "quantity": 2,
+        "unit_price": 180
+      },
+      {
+        "product_id": "P-0006",
+        "quantity": 1,
+        "unit_price": 585
+      }
+    ],
+    "total": 945,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0030",
+    "customer_id": "C-0030",
+    "order_date": "2021-05-26T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0008",
+        "quantity": 1,
+        "unit_price": 318
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 3,
+        "unit_price": 315
+      }
+    ],
+    "total": 1263,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0031",
+    "customer_id": "C-0010",
+    "order_date": "2021-05-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0018",
+        "quantity": 1,
+        "unit_price": 455
+      },
+      {
+        "product_id": "P-0009",
+        "quantity": 2,
+        "unit_price": 250
+      }
+    ],
+    "total": 0,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0032",
+    "customer_id": "C-0045",
+    "order_date": "2022-09-15T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 5,
+        "unit_price": 629
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 1,
+        "unit_price": 469
+      }
+    ],
+    "total": 3614,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0033",
+    "customer_id": "C-0039",
+    "order_date": "2022-05-28T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0020",
+        "quantity": 1,
+        "unit_price": 468
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 4,
+        "unit_price": 60
+      }
+    ],
+    "total": 708,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0034",
+    "customer_id": "C-0034",
+    "order_date": "2024-08-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 5,
+        "unit_price": 710
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 3,
+        "unit_price": 41
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 2,
+        "unit_price": 61
+      }
+    ],
+    "total": 3795,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0035",
+    "customer_id": "C-0023",
+    "order_date": "2023-04-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 4,
+        "unit_price": 619
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 1,
+        "unit_price": 523
+      }
+    ],
+    "total": 2999,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0036",
+    "customer_id": "C-0043",
+    "order_date": "2023-04-01T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 3,
+        "unit_price": 184
+      },
+      {
+        "product_id": "P-0010",
+        "quantity": 4,
+        "unit_price": 730
+      }
+    ],
+    "total": 3472,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0037",
+    "customer_id": "C-0001",
+    "order_date": "2024-09-08T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0011",
+        "quantity": 3,
+        "unit_price": 342
+      },
+      {
+        "product_id": "P-0017",
+        "quantity": 4,
+        "unit_price": 138
+      }
+    ],
+    "total": 1578,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0038",
+    "customer_id": "C-0029",
+    "order_date": "2021-04-16T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0012",
+        "quantity": 5,
+        "unit_price": 212
+      },
+      {
+        "product_id": "P-0021",
+        "quantity": 4,
+        "unit_price": 657
+      }
+    ],
+    "total": 3688,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0039",
+    "customer_id": "C-0041",
+    "order_date": "2024-05-31T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0023",
+        "quantity": 4,
+        "unit_price": 314
+      },
+      {
+        "product_id": "P-0001",
+        "quantity": 1,
+        "unit_price": 516
+      }
+    ],
+    "total": 1772,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0040",
+    "customer_id": "C-0015",
+    "order_date": "2021-08-21T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0001",
+        "quantity": 5,
+        "unit_price": 338
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 4,
+        "unit_price": 585
+      }
+    ],
+    "total": 4030,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0041",
+    "customer_id": "C-0031",
+    "order_date": "2023-08-26T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 3,
+        "unit_price": 530
+      },
+      {
+        "product_id": "P-0014",
+        "quantity": 3,
+        "unit_price": 742
+      }
+    ],
+    "total": 3816,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0042",
+    "customer_id": "C-0018",
+    "order_date": "2023-04-30T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0020",
+        "quantity": 2,
+        "unit_price": 412
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 2,
+        "unit_price": 540
+      }
+    ],
+    "total": 1904,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0043",
+    "customer_id": "C-0032",
+    "order_date": "2021-11-01T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 3,
+        "unit_price": 22
+      },
+      {
+        "product_id": "P-0022",
+        "quantity": 5,
+        "unit_price": 621
+      }
+    ],
+    "total": 3171,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0044",
+    "customer_id": "C-0021",
+    "order_date": "2022-01-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0018",
+        "quantity": 3,
+        "unit_price": 373
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 4,
+        "unit_price": 576
+      }
+    ],
+    "total": 3423,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0045",
+    "customer_id": "C-0025",
+    "order_date": "2023-03-02T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0002",
+        "quantity": 4,
+        "unit_price": 259
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 4,
+        "unit_price": 345
+      }
+    ],
+    "total": 2416,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0046",
+    "customer_id": "C-0007",
+    "order_date": "2023-12-14T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 5,
+        "unit_price": 149
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 1,
+        "unit_price": 359
+      }
+    ],
+    "total": 1104,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0047",
+    "customer_id": "C-0040",
+    "order_date": "2024-11-19T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 2,
+        "unit_price": 439
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 3,
+        "unit_price": 500
+      }
+    ],
+    "total": 2378,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0048",
+    "customer_id": "C-0003",
+    "order_date": "2024-06-18T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0013",
+        "quantity": 5,
+        "unit_price": 356
+      },
+      {
+        "product_id": "P-0018",
+        "quantity": 4,
+        "unit_price": 344
+      }
+    ],
+    "total": 3156,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0049",
+    "customer_id": "C-0011",
+    "order_date": "2024-11-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 1,
+        "unit_price": 252
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 1,
+        "unit_price": 120
+      }
+    ],
+    "total": 372,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0050",
+    "customer_id": "C-0010",
+    "order_date": "2022-05-16T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 1,
+        "unit_price": 352
+      },
+      {
+        "product_id": "P-0014",
+        "quantity": 3,
+        "unit_price": 387
+      }
+    ],
+    "total": 1513,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0051",
+    "customer_id": "C-0044",
+    "order_date": "2022-05-09T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 2,
+        "unit_price": 194
+      },
+      {
+        "product_id": "P-0020",
+        "quantity": 4,
+        "unit_price": 644
+      }
+    ],
+    "total": 2964,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0052",
+    "customer_id": "C-0043",
+    "order_date": "2021-01-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 4,
+        "unit_price": 257
+      },
+      {
+        "product_id": "P-0009",
+        "quantity": 4,
+        "unit_price": 280
+      }
+    ],
+    "total": 2148,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0053",
+    "customer_id": "C-0028",
+    "order_date": "2024-11-14T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0012",
+        "quantity": 4,
+        "unit_price": 95
+      },
+      {
+        "product_id": "P-0021",
+        "quantity": 3,
+        "unit_price": 621
+      }
+    ],
+    "total": 2243,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0054",
+    "customer_id": "C-0037",
+    "order_date": "2023-01-06T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0016",
+        "quantity": 4,
+        "unit_price": 223
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 2,
+        "unit_price": 129
+      }
+    ],
+    "total": 1150,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0055",
+    "customer_id": "C-0050",
+    "order_date": "2021-04-11T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0009",
+        "quantity": 4,
+        "unit_price": 42
+      },
+      {
+        "product_id": "P-0022",
+        "quantity": 5,
+        "unit_price": 28
+      }
+    ],
+    "total": 308,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0056",
+    "customer_id": "C-0017",
+    "order_date": "2024-10-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0008",
+        "quantity": 3,
+        "unit_price": 641
+      },
+      {
+        "product_id": "P-0020",
+        "quantity": 2,
+        "unit_price": 671
+      }
+    ],
+    "total": 3265,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0057",
+    "customer_id": "C-0024",
+    "order_date": "2021-09-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 1,
+        "unit_price": 662
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 1,
+        "unit_price": 471
+      }
+    ],
+    "total": 1133,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0058",
+    "customer_id": "C-0018",
+    "order_date": "2021-12-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0006",
+        "quantity": 4,
+        "unit_price": 785
+      },
+      {
+        "product_id": "P-0018",
+        "quantity": 2,
+        "unit_price": 225
+      },
+      {
+        "product_id": "P-0017",
+        "quantity": 5,
+        "unit_price": 394
+      }
+    ],
+    "total": 5560,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0059",
+    "customer_id": "C-0049",
+    "order_date": "2022-04-08T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0004",
+        "quantity": 3,
+        "unit_price": 784
+      },
+      {
+        "product_id": "P-0005",
+        "quantity": 1,
+        "unit_price": 499
+      }
+    ],
+    "total": 2851,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0060",
+    "customer_id": "C-0030",
+    "order_date": "2023-01-25T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0001",
+        "quantity": 4,
+        "unit_price": 112
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 5,
+        "unit_price": 290
+      }
+    ],
+    "total": 1898,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0061",
+    "customer_id": "C-0002",
+    "order_date": "2024-06-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0004",
+        "quantity": 3,
+        "unit_price": 673
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 2,
+        "unit_price": 711
+      }
+    ],
+    "total": 3441,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0062",
+    "customer_id": "C-0027",
+    "order_date": "2021-08-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 1,
+        "unit_price": 683
+      },
+      {
+        "product_id": "P-0021",
+        "quantity": 3,
+        "unit_price": 495
+      }
+    ],
+    "total": 2168,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0063",
+    "customer_id": "C-0009",
+    "order_date": "2023-03-07T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0004",
+        "quantity": 4,
+        "unit_price": 331
+      },
+      {
+        "product_id": "P-0018",
+        "quantity": 2,
+        "unit_price": 119
+      }
+    ],
+    "total": 1562,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0064",
+    "customer_id": "C-0040",
+    "order_date": "2023-04-16T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 2,
+        "unit_price": 621
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 1,
+        "unit_price": 690
+      }
+    ],
+    "total": 1932,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0065",
+    "customer_id": "C-0044",
+    "order_date": "2023-01-23T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0015",
+        "quantity": 4,
+        "unit_price": 242
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 3,
+        "unit_price": 261
+      }
+    ],
+    "total": 1751,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0066",
+    "customer_id": "C-0014",
+    "order_date": "2024-08-07T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0004",
+        "quantity": 2,
+        "unit_price": 302
+      },
+      {
+        "product_id": "P-0022",
+        "quantity": 1,
+        "unit_price": 485
+      }
+    ],
+    "total": 1089,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0067",
+    "customer_id": "C-0014",
+    "order_date": "2024-04-15T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 2,
+        "unit_price": 269
+      },
+      {
+        "product_id": "P-0018",
+        "quantity": 1,
+        "unit_price": 230
+      }
+    ],
+    "total": 768,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0068",
+    "customer_id": "C-0035",
+    "order_date": "2022-05-29T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0001",
+        "quantity": 5,
+        "unit_price": 171
+      },
+      {
+        "product_id": "P-0005",
+        "quantity": 2,
+        "unit_price": 303
+      }
+    ],
+    "total": 1461,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0069",
+    "customer_id": "C-0002",
+    "order_date": "2021-12-23T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0012",
+        "quantity": 1,
+        "unit_price": 154
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 5,
+        "unit_price": 263
+      }
+    ],
+    "total": 1469,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0070",
+    "customer_id": "C-0029",
+    "order_date": "2023-01-12T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 4,
+        "unit_price": 779
+      },
+      {
+        "product_id": "P-0016",
+        "quantity": 1,
+        "unit_price": 136
+      }
+    ],
+    "total": 3252,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0071",
+    "customer_id": "C-0042",
+    "order_date": "2021-03-05T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0022",
+        "quantity": 1,
+        "unit_price": 649
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 3,
+        "unit_price": 553
+      }
+    ],
+    "total": 2308,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0072",
+    "customer_id": "C-0006",
+    "order_date": "2022-10-22T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0016",
+        "quantity": 1,
+        "unit_price": 456
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 4,
+        "unit_price": 749
+      }
+    ],
+    "total": 3452,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0073",
+    "customer_id": "C-0021",
+    "order_date": "2023-02-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 5,
+        "unit_price": 301
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 5,
+        "unit_price": 619
+      }
+    ],
+    "total": 4600,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0074",
+    "customer_id": "C-0028",
+    "order_date": "2023-07-14T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0021",
+        "quantity": 1,
+        "unit_price": 121
+      },
+      {
+        "product_id": "P-0007",
+        "quantity": 5,
+        "unit_price": 686
+      }
+    ],
+    "total": 3551,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0075",
+    "customer_id": "C-0028",
+    "order_date": "2022-10-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0014",
+        "quantity": 4,
+        "unit_price": 484
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 1,
+        "unit_price": 767
+      }
+    ],
+    "total": 2703,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0076",
+    "customer_id": "C-0028",
+    "order_date": "2021-07-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 4,
+        "unit_price": 723
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 1,
+        "unit_price": 113
+      }
+    ],
+    "total": 3005,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0077",
+    "customer_id": "C-0023",
+    "order_date": "2024-09-24T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0018",
+        "quantity": 5,
+        "unit_price": 620
+      },
+      {
+        "product_id": "P-0014",
+        "quantity": 1,
+        "unit_price": 357
+      }
+    ],
+    "total": 3457,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0078",
+    "customer_id": "C-0033",
+    "order_date": "2022-03-12T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 5,
+        "unit_price": 314
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 1,
+        "unit_price": 380
+      }
+    ],
+    "total": 1950,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0079",
+    "customer_id": "C-0049",
+    "order_date": "2022-07-25T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0012",
+        "quantity": 1,
+        "unit_price": 249
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 3,
+        "unit_price": 589
+      }
+    ],
+    "total": 2016,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0080",
+    "customer_id": "C-0049",
+    "order_date": "2022-09-25T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0001",
+        "quantity": 3,
+        "unit_price": 643
+      },
+      {
+        "product_id": "P-0023",
+        "quantity": 3,
+        "unit_price": 204
+      }
+    ],
+    "total": 2541,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0081",
+    "customer_id": "C-0010",
+    "order_date": "2024-07-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 2,
+        "unit_price": 205
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 4,
+        "unit_price": 693
+      }
+    ],
+    "total": 3182,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0082",
+    "customer_id": "C-0020",
+    "order_date": "2022-10-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0015",
+        "quantity": 4,
+        "unit_price": 405
+      },
+      {
+        "product_id": "P-0012",
+        "quantity": 2,
+        "unit_price": 369
+      }
+    ],
+    "total": 2358,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0083",
+    "customer_id": "C-0029",
+    "order_date": "2024-09-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0002",
+        "quantity": 5,
+        "unit_price": 181
+      },
+      {
+        "product_id": "P-0009",
+        "quantity": 1,
+        "unit_price": 710
+      }
+    ],
+    "total": 1615,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0084",
+    "customer_id": "C-0023",
+    "order_date": "2023-05-31T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0007",
+        "quantity": 3,
+        "unit_price": 444
+      },
+      {
+        "product_id": "P-0004",
+        "quantity": 5,
+        "unit_price": 793
+      }
+    ],
+    "total": 5297,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0085",
+    "customer_id": "C-0004",
+    "order_date": "2021-01-16T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0002",
+        "quantity": 3,
+        "unit_price": 559
+      },
+      {
+        "product_id": "P-0020",
+        "quantity": 4,
+        "unit_price": 245
+      }
+    ],
+    "total": 2657,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0086",
+    "customer_id": "C-0032",
+    "order_date": "2023-06-01T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0010",
+        "quantity": 3,
+        "unit_price": 160
+      },
+      {
+        "product_id": "P-0001",
+        "quantity": 1,
+        "unit_price": 355
+      }
+    ],
+    "total": 835,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0087",
+    "customer_id": "C-0026",
+    "order_date": "2021-03-28T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 2,
+        "unit_price": 565
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 3,
+        "unit_price": 592
+      }
+    ],
+    "total": 2906,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Casablanca",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0088",
+    "customer_id": "C-0046",
+    "order_date": "2024-08-04T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 3,
+        "unit_price": 99
+      },
+      {
+        "product_id": "P-0013",
+        "quantity": 5,
+        "unit_price": 459
+      }
+    ],
+    "total": 2592,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0089",
+    "customer_id": "C-0045",
+    "order_date": "2023-01-12T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0011",
+        "quantity": 1,
+        "unit_price": 434
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 5,
+        "unit_price": 195
+      }
+    ],
+    "total": 1409,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0090",
+    "customer_id": "C-0026",
+    "order_date": "2022-09-28T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 4,
+        "unit_price": 269
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 5,
+        "unit_price": 430
+      }
+    ],
+    "total": 3226,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0091",
+    "customer_id": "C-0033",
+    "order_date": "2022-02-02T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 1,
+        "unit_price": 192
+      },
+      {
+        "product_id": "P-0017",
+        "quantity": 1,
+        "unit_price": 668
+      }
+    ],
+    "total": 860,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "shipped"
+    }
+  },
+  {
+    "order_id": "ORD-0092",
+    "customer_id": "C-0039",
+    "order_date": "2021-11-10T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0005",
+        "quantity": 1,
+        "unit_price": 261
+      },
+      {
+        "product_id": "P-0006",
+        "quantity": 2,
+        "unit_price": 282
+      }
+    ],
+    "total": 825,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0093",
+    "customer_id": "C-0041",
+    "order_date": "2024-07-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0019",
+        "quantity": 5,
+        "unit_price": 495
+      },
+      {
+        "product_id": "P-0021",
+        "quantity": 5,
+        "unit_price": 479
+      }
+    ],
+    "total": 4870,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Fez",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0094",
+    "customer_id": "C-0020",
+    "order_date": "2022-07-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0003",
+        "quantity": 4,
+        "unit_price": 174
+      },
+      {
+        "product_id": "P-0021",
+        "quantity": 4,
+        "unit_price": 500
+      }
+    ],
+    "total": 2696,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "pending"
+    }
+  },
+  {
+    "order_id": "ORD-0095",
+    "customer_id": "C-0019",
+    "order_date": "2021-06-07T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0015",
+        "quantity": 4,
+        "unit_price": 337
+      },
+      {
+        "product_id": "P-0012",
+        "quantity": 1,
+        "unit_price": 58
+      }
+    ],
+    "total": 1406,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Tangier",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0096",
+    "customer_id": "C-0037",
+    "order_date": "2024-08-27T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0018",
+        "quantity": 5,
+        "unit_price": 493
+      },
+      {
+        "product_id": "P-0015",
+        "quantity": 1,
+        "unit_price": 776
+      }
+    ],
+    "total": 3241,
+    "payment": {
+      "method": "paypal",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0097",
+    "customer_id": "C-0042",
+    "order_date": "2021-12-20T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0002",
+        "quantity": 2,
+        "unit_price": 533
+      },
+      {
+        "product_id": "P-0011",
+        "quantity": 1,
+        "unit_price": 481
+      },
+      {
+        "product_id": "P-0017",
+        "quantity": 1,
+        "unit_price": 751
+      }
+    ],
+    "total": 2298,
+    "payment": {
+      "method": "card",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Rabat",
+      "status": "cancelled"
+    }
+  },
+  {
+    "order_id": "ORD-0098",
+    "customer_id": "C-0024",
+    "order_date": "2022-08-03T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0017",
+        "quantity": 5,
+        "unit_price": 469
+      },
+      {
+        "product_id": "P-0012",
+        "quantity": 2,
+        "unit_price": 644
+      }
+    ],
+    "total": 3633,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "Marrakech",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0099",
+    "customer_id": "C-0022",
+    "order_date": "2021-07-13T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0002",
+        "quantity": 5,
+        "unit_price": 715
+      },
+      {
+        "product_id": "P-0003",
+        "quantity": 3,
+        "unit_price": 666
+      }
+    ],
+    "total": 5573,
+    "payment": {
+      "method": "bank_transfer",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "delivered"
+    }
+  },
+  {
+    "order_id": "ORD-0099",
+    "customer_id": "C-0043",
+    "order_date": "2021-10-17T00:00:00",
+    "items": [
+      {
+        "product_id": "P-0005",
+        "quantity": 5,
+        "unit_price": 761
+      },
+      {
+        "product_id": "P-0019",
+        "quantity": 1,
+        "unit_price": 361
+      }
+    ],
+    "total": 4166,
+    "payment": {
+      "method": "cash_on_delivery",
+      "paid": true
+    },
+    "shipping": {
+      "city": "El Jadida",
+      "status": "cancelled"
+    }
+  }
+]

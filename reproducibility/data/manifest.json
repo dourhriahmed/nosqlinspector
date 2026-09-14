@@ -1,0 +1,190 @@
+{
+  "seed": 42,
+  "collections": {
+    "products": 23,
+    "orders": 100,
+    "customers": 50
+  },
+  "total_documents": 173,
+  "injected_anomalies": 18,
+  "presence": {
+    "products": {
+      "api_key": {
+        "occurrences": 1,
+        "presence_pct": 4.3
+      },
+      "brand": {
+        "occurrences": 23,
+        "presence_pct": 100.0
+      },
+      "category": {
+        "occurrences": 23,
+        "presence_pct": 100.0
+      },
+      "label": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      },
+      "name": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "price": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "product_id": {
+        "occurrences": 23,
+        "presence_pct": 100.0
+      },
+      "properties": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      },
+      "properties.color": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      },
+      "properties.warranty_months": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      },
+      "secret_key": {
+        "occurrences": 1,
+        "presence_pct": 4.3
+      },
+      "specifications": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "specifications.color": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "specifications.warranty_months": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "stock": {
+        "occurrences": 23,
+        "presence_pct": 100.0
+      },
+      "supplied_by": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      },
+      "supplier": {
+        "occurrences": 20,
+        "presence_pct": 87.0
+      },
+      "unit_price": {
+        "occurrences": 3,
+        "presence_pct": 13.0
+      }
+    },
+    "orders": {
+      "customer_id": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "items": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "items.product_id": {
+        "occurrences": 203,
+        "presence_pct": 203.0
+      },
+      "items.quantity": {
+        "occurrences": 203,
+        "presence_pct": 203.0
+      },
+      "items.unit_price": {
+        "occurrences": 203,
+        "presence_pct": 203.0
+      },
+      "order_date": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "order_id": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "payment": {
+        "occurrences": 99,
+        "presence_pct": 99.0
+      },
+      "payment.method": {
+        "occurrences": 99,
+        "presence_pct": 99.0
+      },
+      "payment.paid": {
+        "occurrences": 99,
+        "presence_pct": 99.0
+      },
+      "shipping": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "shipping.city": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "shipping.status": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      },
+      "total": {
+        "occurrences": 100,
+        "presence_pct": 100.0
+      }
+    },
+    "customers": {
+      "address": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "address.city": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "address.country": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "customer_id": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "email": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "first_name": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "last_name": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "loyalty_points": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "password": {
+        "occurrences": 1,
+        "presence_pct": 2.0
+      },
+      "phone": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      },
+      "registration_date": {
+        "occurrences": 50,
+        "presence_pct": 100.0
+      }
+    }
+  }
+}

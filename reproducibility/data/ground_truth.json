@@ -1,0 +1,146 @@
+[
+  {
+    "collection": "products",
+    "doc_id": "P-0001",
+    "field": "api_key",
+    "category": "exposed_secret",
+    "severity": "HIGH",
+    "note": "API key stored in catalogue document"
+  },
+  {
+    "collection": "products",
+    "doc_id": "P-0002",
+    "field": "secret_key",
+    "category": "exposed_secret",
+    "severity": "HIGH",
+    "note": "Secret key stored in catalogue document"
+  },
+  {
+    "collection": "products",
+    "doc_id": "P-0003",
+    "field": "price",
+    "category": "type_inconsistency",
+    "severity": "MEDIUM",
+    "note": "Financial field mixes integer and string"
+  },
+  {
+    "collection": "products",
+    "doc_id": "P-0004",
+    "field": "price",
+    "category": "range_sign_error",
+    "severity": "HIGH",
+    "note": "Negative price"
+  },
+  {
+    "collection": "products",
+    "doc_id": "P-0005",
+    "field": "price",
+    "category": "range_sign_error",
+    "severity": "INFO",
+    "note": "Outlier price (>3 sigma)"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0001",
+    "field": "password",
+    "category": "plaintext_password",
+    "severity": "CRITICAL",
+    "note": "Password stored in clear text"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0002",
+    "field": "email",
+    "category": "missing_value",
+    "severity": "INFO",
+    "note": "Null e-mail"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0003",
+    "field": "email",
+    "category": "invalid_format",
+    "severity": "HIGH",
+    "note": "Malformed e-mail"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0004",
+    "field": "email",
+    "category": "invalid_format",
+    "severity": "HIGH",
+    "note": "Malformed e-mail"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0005",
+    "field": "phone",
+    "category": "invalid_format",
+    "severity": "HIGH",
+    "note": "Malformed phone number"
+  },
+  {
+    "collection": "customers",
+    "doc_id": "C-0006",
+    "field": "loyalty_points",
+    "category": "range_sign_error",
+    "severity": "HIGH",
+    "note": "Negative loyalty points"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0011",
+    "field": "payment",
+    "category": "missing_value",
+    "severity": "MEDIUM",
+    "note": "Payment sub-object absent"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0012",
+    "field": "total",
+    "category": "type_inconsistency",
+    "severity": "MEDIUM",
+    "note": "Financial field mixes integer and string"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0099",
+    "field": "order_id",
+    "category": "duplicate_id",
+    "severity": "CRITICAL",
+    "note": "Duplicated order_id"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0021",
+    "field": "total",
+    "category": "cross_field",
+    "severity": "HIGH",
+    "note": "Order total inconsistent with line items"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0022",
+    "field": "total",
+    "category": "cross_field",
+    "severity": "HIGH",
+    "note": "Order total inconsistent with line items"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0023",
+    "field": "total",
+    "category": "cross_field",
+    "severity": "HIGH",
+    "note": "Order total inconsistent with line items"
+  },
+  {
+    "collection": "orders",
+    "doc_id": "ORD-0031",
+    "field": "total",
+    "category": "cross_field",
+    "severity": "CRITICAL",
+    "note": "Marked paid but total is zero"
+  }
+]

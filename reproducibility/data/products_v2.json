@@ -1,0 +1,303 @@
+[
+  {
+    "product_id": "P-0001",
+    "brand": "Hooli",
+    "category": "electronics",
+    "stock": "12",
+    "name": "Product 1",
+    "price": 1538,
+    "supplier": "Supplier 5",
+    "specifications": {
+      "color": "white",
+      "warranty_months": 12
+    },
+    "api_key": "sk_live_8a2fd30e5fa49ad531b1cc9c",
+    "discount_pct": 5
+  },
+  {
+    "product_id": "P-0002",
+    "brand": "Globex",
+    "category": "beauty",
+    "stock": "52",
+    "name": "Product 2",
+    "price": 1405,
+    "supplier": "Supplier 9",
+    "specifications": {
+      "color": "black",
+      "warranty_months": 36
+    },
+    "secret_key": "EE9F270036588D11C4A11ACB1CB4C129"
+  },
+  {
+    "product_id": "P-0003",
+    "brand": "Acme",
+    "category": "electronics",
+    "stock": "47",
+    "name": "Product 3",
+    "price": "199.99",
+    "supplier": "Supplier 4",
+    "specifications": {
+      "color": "silver",
+      "warranty_months": 6
+    }
+  },
+  {
+    "product_id": "P-0004",
+    "brand": "Soylent",
+    "category": "home",
+    "stock": "366",
+    "name": "Product 4",
+    "price": -50,
+    "supplier": "Supplier 9",
+    "specifications": {
+      "color": "blue",
+      "warranty_months": 12
+    }
+  },
+  {
+    "product_id": "P-0005",
+    "brand": "Initech",
+    "category": "toys",
+    "stock": "142",
+    "name": "Product 5",
+    "price": 999999,
+    "supplier": "Supplier 1",
+    "specifications": {
+      "color": "white",
+      "warranty_months": 36
+    },
+    "discount_pct": 15
+  },
+  {
+    "product_id": "P-0006",
+    "brand": "Umbrella",
+    "category": "sports",
+    "stock": "79",
+    "price": 0,
+    "supplier": "Supplier 6",
+    "specifications": {
+      "color": "black",
+      "warranty_months": 6
+    },
+    "discount_pct": 20
+  },
+  {
+    "product_id": "P-0007",
+    "brand": "Initech",
+    "category": "electronics",
+    "stock": "183",
+    "name": "Product 7",
+    "price": 1755,
+    "supplier": "Supplier 6",
+    "specifications": {
+      "color": "silver",
+      "warranty_months": "24"
+    },
+    "discount_pct": 15
+  },
+  {
+    "product_id": "P-0008",
+    "brand": "Stark",
+    "category": "electronics",
+    "stock": "373",
+    "name": "Product 8",
+    "price": 960,
+    "supplier": "Supplier 9",
+    "specifications": {
+      "color": "black",
+      "warranty_months": 36
+    }
+  },
+  {
+    "product_id": "P-0009",
+    "brand": "Acme",
+    "category": "toys",
+    "stock": "150",
+    "name": "Product 9",
+    "price": 1718,
+    "supplier": "Supplier 6",
+    "specifications": {
+      "color": "silver",
+      "warranty_months": 12
+    },
+    "discount_pct": 15
+  },
+  {
+    "product_id": "P-0010",
+    "brand": "Hooli",
+    "category": "electronics",
+    "stock": "23",
+    "price": 1374,
+    "supplier": "Supplier 4",
+    "specifications": {
+      "color": "red",
+      "warranty_months": "6"
+    }
+  },
+  {
+    "product_id": "P-0011",
+    "brand": "Stark",
+    "category": "home",
+    "stock": "443",
+    "name": "Product 11",
+    "price": 226,
+    "supplier": "Supplier 7",
+    "specifications": {
+      "color": "red",
+      "warranty_months": 36
+    }
+  },
+  {
+    "product_id": "P-0012",
+    "brand": "Hooli",
+    "category": "sports",
+    "stock": "83",
+    "price": 778,
+    "supplier": "Supplier 6",
+    "specifications": {
+      "color": "white",
+      "warranty_months": 24
+    }
+  },
+  {
+    "product_id": "P-0013",
+    "brand": "Hooli",
+    "category": "beauty",
+    "stock": "331",
+    "name": "Product 13",
+    "price": 166,
+    "supplier": "Supplier 3",
+    "specifications": {
+      "color": "silver",
+      "warranty_months": 12
+    }
+  },
+  {
+    "product_id": "P-0014",
+    "brand": "Globex",
+    "category": "books",
+    "stock": "194",
+    "name": "Product 14",
+    "price": 572,
+    "supplier": "Supplier 9",
+    "specifications": {
+      "color": "white",
+      "warranty_months": "24"
+    }
+  },
+  {
+    "product_id": "P-0015",
+    "brand": "Stark",
+    "category": "electronics",
+    "stock": "117",
+    "name": "Product 15",
+    "price": 1703,
+    "supplier": "Supplier 1",
+    "specifications": {
+      "color": "red",
+      "warranty_months": "36"
+    },
+    "discount_pct": 20
+  },
+  {
+    "product_id": "P-0016",
+    "brand": "Umbrella",
+    "category": "electronics",
+    "stock": "108",
+    "name": "Product 16",
+    "price": 1890,
+    "supplier": "Supplier 6",
+    "specifications": {
+      "color": "white",
+      "warranty_months": 36
+    }
+  },
+  {
+    "product_id": "P-0017",
+    "brand": "Initech",
+    "category": "beauty",
+    "stock": "234",
+    "name": "Product 17",
+    "price": 312,
+    "supplier": "Supplier 5",
+    "specifications": {
+      "color": "white",
+      "warranty_months": 12
+    }
+  },
+  {
+    "product_id": "P-0018",
+    "brand": "Hooli",
+    "category": "toys",
+    "stock": "275",
+    "price": 558,
+    "supplier": "Supplier 7",
+    "specifications": {
+      "color": "silver",
+      "warranty_months": "36"
+    }
+  },
+  {
+    "product_id": "P-0019",
+    "brand": "Umbrella",
+    "category": "home",
+    "stock": "70",
+    "name": "Product 19",
+    "price": 1063,
+    "supplier": "Supplier 8",
+    "specifications": {
+      "color": "black",
+      "warranty_months": "6"
+    }
+  },
+  {
+    "product_id": "P-0020",
+    "brand": "Stark",
+    "category": "electronics",
+    "stock": "78",
+    "name": "Product 20",
+    "price": 1305,
+    "supplier": "Supplier 3",
+    "specifications": {
+      "color": "green",
+      "warranty_months": 36
+    }
+  },
+  {
+    "product_id": "P-0021",
+    "brand": "Soylent",
+    "category": "electronics",
+    "stock": "197",
+    "unit_price": 801,
+    "supplied_by": "Vendor 8",
+    "properties": {
+      "color": "silver",
+      "warranty_months": 24
+    }
+  },
+  {
+    "product_id": "P-0022",
+    "brand": "Soylent",
+    "category": "electronics",
+    "stock": "348",
+    "unit_price": 1496,
+    "supplied_by": "Vendor 2",
+    "properties": {
+      "color": "green",
+      "warranty_months": 24
+    }
+  },
+  {
+    "product_id": "P-0023",
+    "brand": "Stark",
+    "category": "beauty",
+    "stock": "174",
+    "unit_price": 248,
+    "supplied_by": "Vendor 5",
+    "properties": {
+      "color": "blue",
+      "warranty_months": 12
+    },
+    "discount_pct": 5
+  }
+]
